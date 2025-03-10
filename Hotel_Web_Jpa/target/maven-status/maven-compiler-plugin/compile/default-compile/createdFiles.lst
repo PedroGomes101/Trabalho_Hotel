@@ -1,0 +1,8 @@
+model\dao\DaoFactory.class
+model\dao\ContatoDaoJpa.class
+controller\Login.class
+model\dao\ConnFactory.class
+model\dao\InterfaceDao.class
+controller\HospedeSrv.class
+model\Reserva.class
+model\Hospede.class

@@ -1,0 +1,14 @@
+    body {
+    background-color: gray;
+    text-align: center;
+    }
+    .img_botao {
+    border: none; 
+    padding: 0;
+    background: none;
+    cursor: pointer;
+    }
+    .img_botao img {
+    width: 500px;
+    height: auto;
+}
